@@ -1,3 +1,4 @@
 merhaba
 dünya
 hello
+pycharmda değişiklik
